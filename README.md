@@ -1,5 +1,4 @@
-# Coffee-Sales-Analysis
-# 📊 Excel Data Analysis Project
+# 📊 Coffee Sales Analysis Project Using Excel
 
 ## 📌 Project Overview
 
